@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fafafa;
+  color: #212121;
+  line-height: 1.5;
+}
+
+#search-box {
+  font: inherit;
+  padding: 8px;
+  max-width: 320px;
+  margin-bottom: 16px;
+}
+.country-info{
+  padding-left: 20px;
+}
+.country-text{
+  line-height: 1.14;
+    font-size: 22px;
+      letter-spacing: 0.03em;
+}
+.title{
+  text-align: center;
+    font-size: 30px;
+    letter-spacing: 0.03em;
+}
